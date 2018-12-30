@@ -4,7 +4,7 @@
         <componentInstances>
             <componentInstanceProperties>
                 <name>dashboardName</name>
-                <value>My_Volunteer_Information</value>
+                <value>My Volunteer Information</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>hideOnError</name>
