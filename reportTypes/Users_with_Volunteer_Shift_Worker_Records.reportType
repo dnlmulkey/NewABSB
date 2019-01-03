@@ -365,7 +365,7 @@
     <sections>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>Attributed_Volunteer_Hours__c</field>
+            <field>Shift_Hours__c</field>
             <table>User.Volunteer_Shift_Workers__r</table>
         </columns>
         <columns>
